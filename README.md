@@ -3,7 +3,7 @@
 
 ### `npm install` (下依赖)
 
-# serve with hot reload at localhost:8080
+### serve with hot reload at localhost:8080
 ### `npm start` (起服务)
 
 ### `npm run build` （构建生成环境）
