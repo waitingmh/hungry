@@ -10,6 +10,7 @@
 
 ### 目录结构
 
+<pre>
 ├── pulic                     // 静态资源相关
 ├── src                        // 源代码
 │   ├── font                   // 引入icon
@@ -21,6 +22,7 @@
 │   └── index.scss                // 全局样式
 ├── .gitignore                 // 用于Git配置不需要加入版本管理的文件
 └── package.json               // 项目依赖管理
+</pre>
 
 ### 技术栈
 
