@@ -11,6 +11,7 @@ class Find extends Component {
       
     }
   }
+  
   getValue = (e) =>{
     let val = e.target.value;
     const {curValue} = this.props
