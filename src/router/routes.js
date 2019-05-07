@@ -5,7 +5,6 @@ import Order from "../view/order";
 import Find from "../view/find";
 import Mine from "../view/mine";
 
-
 const routes = [
     {  
         path:'/home',
