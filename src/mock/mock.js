@@ -73,6 +73,7 @@ const datalist = [
         id:9
     }
 ]
+
 Mock.mock('/all',()=>{
    return {
        code:1,
